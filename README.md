@@ -34,8 +34,7 @@ I am currently developing my skills in:
 - AI applications in healthcare
 - Medical document processing
 
-My next major project will build upon MedTech Tracker using a modern backend
-architecture and AI-assisted medical equipment documentation.
+My next planned project will build upon MedTech Tracker using a modern backend architecture and AI-assisted medical equipment documentation.
 
 ---
 
